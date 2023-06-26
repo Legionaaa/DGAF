@@ -2,5 +2,6 @@
 "name": "DGAF",
 "description": "DGAF and stake with DGAF",
 "ticker": "DGAF",
-"homepage": "https://dgafcoin.io"
+"homepage": "https://dgafcoin.io",
+"extended": "https://dgafcoin.io/extendedmeta.json"
 }
